@@ -109,33 +109,6 @@ Open any recipe to enter distraction-free cooking mode with:
 - Filter favourite recipes
 
 
-## 📚 What I Learned
-
-Through building RecipeBook, I improved my understanding of:
-
-- Component-based architecture in React
-- State management patterns
-- Responsive UI design
-- Parsing and handling external data
-- User-focused product thinking
-- Clean UI/UX principles
-
-## 🔮 Future Improvements
-
-- User authentication
-- Cloud sync
-- Meal planning
-- Shopping list generation
-- AI-powered recipe recommendations
-- Dark mode support
-
-
-## 👨‍💻 Author
-
-Created by **Sajan Bodele**
-
-- GitHub: https://github.com/sajanbodele
-
 
 ## 📄 License
 
